@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{A6304831-3B11-4F9A-AB27-853CEE338C97}"
+	ProjectSection(SolutionItems) = preProject
+		0.01helloworld.html = 0.01helloworld.html
+		0.02_hp_tags.html = 0.02_hp_tags.html
+		0.03_lists.html = 0.03_lists.html
+		0.04_links.html = 0.04_links.html
+		0.05_images.html = 0.05_images.html
+		0.06_tables.html = 0.06_tables.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{3FAA7491-C894-44D7-94F1-92644D0B66D1}"
+	ProjectSection(SolutionItems) = preProject
+		..\Solution1\img\image1.jpg = ..\Solution1\img\image1.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FAA7491-C894-44D7-94F1-92644D0B66D1} = {A6304831-3B11-4F9A-AB27-853CEE338C97}
+	EndGlobalSection
+EndGlobal
